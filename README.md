@@ -25,8 +25,8 @@ Este projeto foi desenvolvido como parte da disciplina de **Programação para D
 ### 1️⃣ **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone [repositório](https://github.com/BacelarJV/av2-mobile.git)
+acessar a pasta do repositório
 ```
 
 2️⃣ **Instale as dependências do projeto**
